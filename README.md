@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/wobsoriano/go-wifi-name"
+	wifiname "github.com/wobsoriano/go-wifi-name"
 )
 
 func main() {
